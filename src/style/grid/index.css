@@ -3,6 +3,8 @@ body{
     grid-template-areas: 
     "aside header"
     "aside main";
+    /*column-gap: 100px;*/
+    /*gap: 100px;*/
 
     grid-template-columns: auto 1fr;
 }
