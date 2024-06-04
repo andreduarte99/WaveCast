@@ -40,6 +40,25 @@
         padding: 0;
     }
 
+    .player_volume{
+        display: none;
+    }
+
+    .player_temporizador-cronometro{
+        display: none;
+    }
+
+    .button-um, .button-dois, .button-quatro, .button-cinco{
+        display: none;
+    }
+
+    .secao-player{
+        display: flex;
+        gap: 5rem;
+        margin-bottom: 0.3rem;
+    }
+
+
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1399px) {
