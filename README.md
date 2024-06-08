@@ -10,7 +10,8 @@ Projeto em HTML e CSS do Alurabooks. Desafio da formação dde HTML e CSS: const
 | :fire: Desafio     | https://cursos.alura.com.br/course/css-construindo-layouts-com-grid
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![alurabooks](https://github.com/andreduarte99/alurabooks/assets/42449246/37d7ebb7-3f70-406c-94b0-c4f9a7264191#vitrinedev)
+![Captura de tela de 2024-06-08 14-40-56](https://github.com/andreduarte99/WaveCast/assets/42449246/ba23bdf7-aee0-4eff-9cf8-d0345bc306a4#vitrinedev)
+
 
 ## Detalhes do projeto
 
