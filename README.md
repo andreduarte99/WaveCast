@@ -6,7 +6,7 @@ Projeto em HTML e CSS do Alurabooks. Desafio da formação dde HTML e CSS: const
 | -------------  | --- |
 | :sparkles: Nome        | **WaveCast**
 | :label: Tecnologias | HTML e CSS.
-| :rocket: URL         | https://andreduarte99.github.io/alurabooks/
+| :rocket: URL         | https://andreduarte99.github.io/WaveCast/
 | :fire: Desafio     | https://cursos.alura.com.br/course/css-construindo-layouts-com-grid
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
