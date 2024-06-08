@@ -1,6 +1,6 @@
 # WaveCast
 
-Projeto em HTML e CSS do Alurabooks. Desafio da formação dde HTML e CSS: construindo layouts com Grid.
+Projeto em HTML e CSS do WaveCast. Desafio da formação dde HTML e CSS: construindo layouts com Grid.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
